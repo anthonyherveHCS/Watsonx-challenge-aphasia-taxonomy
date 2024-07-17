@@ -1,5 +1,16 @@
 * * *
 
+Overview
+--------
+
+Aphasia is a disorder that affects how you communicate. It can impact your speech, as well as the way you write and understand both spoken and written language.
+
+Aphasia usually happens suddenly after a stroke or a head injury. But it can also come on gradually from a slow-growing brain tumor or a disease that causes progressive, permanent damage (degenerative). The severity of aphasia depends on a number of things, including the cause and the extent of the brain damage.
+
+The main treatment for aphasia involves treating the condition that causes it, as well as speech and language therapy. The person with aphasia relearns and practices language skills and learns to use other ways to communicate. Family members often participate in the process, helping the person communicate.
+
+* * *
+
 Symptoms
 --------
 
